@@ -1,0 +1,6 @@
+# virtualenv
+venv/
+
+# temp files
+*\~
+
